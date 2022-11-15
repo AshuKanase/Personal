@@ -5,7 +5,7 @@ public class NewClass
 	public static void main(String[]args)
 	{
 		System.out.println("This is my push code");
-		System.out.println("push to repositoty");
+		
 	}
 
 }
